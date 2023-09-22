@@ -1,0 +1,30 @@
+.currency-dropdown {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color: green; /* Text color (light green) */
+  }
+  
+  .select-box {
+    padding: 5px;
+    border: 1px solid green; /* Border color (light green) */
+    border-radius: 5px;
+    background-color: white; /* Dropdown background color */
+    color: green; /* Dropdown text color (light green) */
+  }
+  
+  /* Style the dropdown arrow (optional) */
+  .select-box::after {
+    content: '\25BC'; /* Unicode for a down arrow */
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    color: green; /* Arrow color (light green) */
+    pointer-events: none;
+  }
+  
+  /* Style the selected option (optional) */
+  .select-box option:checked {
+    background-color: lightgreen; /* Background color when selected */
+  }
+  
