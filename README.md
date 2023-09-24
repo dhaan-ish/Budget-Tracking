@@ -28,7 +28,7 @@ Welcome to the Budget Tracking Application! This React-based web application all
 ### 3. Dropdown to Change Currency
 
 - **3.1 Currency Label and Editable Dropdown**
-  - The currency label is appropriately placed, and the dropdown is editable, allowing you to choose from four currency options: $ Dollar, 室, ⯬॥, in a stylized dropdown list format.
+  - The currency label is appropriately placed, and the dropdown is editable, allowing you to choose from four currency options: Dollar, Euro, Pound, Ruppee in a stylized dropdown list format.
   
 - **3.2 Editable Currency Dropdown List with Four Values**
   - The dropdown list includes four currency values in the specified format.
