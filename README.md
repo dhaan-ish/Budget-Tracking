@@ -71,8 +71,8 @@ Welcome to the Budget Tracking Application! This React-based web application all
 ### 7. Screenshots
 
 **Screenshots of the web app**
-- ![Screenshot](screenshot/budget_alloacation.png)
-- ![Screenshot](screenshot/budget_error%20message.png)
+- ![Screenshot](screenshot/budget_allocation.png)
+- ![Screenshot](screenshot/budget_allocation_error message.png)
 - ![Screenshot](screenshot/budget_allocation_with_currency.png)
 - ![Screenshot](screenshot/budget_morethan_spending.png)
 - ![Screenshot](screenshot/budget_value.png)
